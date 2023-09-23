@@ -1,0 +1,5 @@
+- 👋 Hello everyone, I’m ✨ @JustRaika! ✨
+- 👀 I'm a concept artist and a coding maniac. Also love lifting heavy objects at the gym just to put them down again.
+- 🌱 I’m currently learning Java btw! ^-^
+- 💞️ Looking to collaborate on web projects - I can code in HTML, CSS, PHP and and enjoy working on web templates in Figma!
+- 📫 Reach out to me on LinkedIn -> https://www.linkedin.com/in/ddegtyareva
