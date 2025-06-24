@@ -1,5 +1,5 @@
 - 👋 Hello everyone, I’m ✨ @JustRaika! ✨
-- 👀 Calling myself a concept artist and a coding maniac. Also love lifting heavy objects at the gym.
-- 🌱 Currently learning to code in Java! ^-^
-- 💞️ I'm also super passionate about any web projects, yes.
-- 📫 Find me posting weird stuff on here -> https://www.linkedin.com/in/ddegtyareva
+- 👀 Calling myself a concept engineer and a coding maniac. Also love lifting heavy objects at the gym.
+- 🌱 Currently expanding my web coding stack! ^-^
+- 💞️ I'm super passionate about any digital projects, yes.
+- 📫 Find me posting cringe stuff on here -> https://www.linkedin.com/in/ddegtyareva
