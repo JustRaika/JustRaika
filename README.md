@@ -5,19 +5,18 @@ I've spent the past few years honing my skills and developing expertise in a var
 In the past I was also working in videography and marketing.
 
 # Tech Stack
-![Python](https://img.shields.io/badge/python-%234F5B93.svg?style=for-the-badge&logo=python&logoColor=white)
-![MYSQL](https://img.shields.io/badge/mysql-%232E8B57?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/css3-%232D3E50.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%235563A9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-%236064B7.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%234F5B93.svg?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF)
-![REACT](https://img.shields.io/badge/react-%23D22128.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232D2D2D.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 # Design Stack
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%234F5B93?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
@@ -25,5 +24,9 @@ In the past I was also working in videography and marketing.
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-%23FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%234F5B93?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 
-# 📫 Find me posting cringe stuff for boomers on here
-[![LinkedIn](https://img.shields.io/badge/linkedin-%236064B7.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddegtyareva)
+# 📫 Find me posting stuff on here
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ddegtyareva)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@dgnika)
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://justraika.itch.io/)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@justraika)
